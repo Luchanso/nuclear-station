@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "run": "gulp",
-    "test": "asd"
+    "test": "echo: 'Not existing tests... :c'"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/Luchanso/nuclear-station/issues"
   },
-  "homepage": "https://github.com/Luchanso/nuclear-station#readme"
+  "homepage": "https://github.com/Luchanso/nuclear-station#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9",
+    "phaser": "^2.6.2"
+  }
 }
