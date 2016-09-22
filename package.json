@@ -1,0 +1,25 @@
+{
+  "name": "nuclear-station",
+  "version": "0.0.1",
+  "description": "Funny game about nuclear control panel",
+  "main": "gulpfile.js",
+  "scripts": {
+    "run": "gulp",
+    "test": "asd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luchanso/nuclear-station.git"
+  },
+  "keywords": [
+    "Game",
+    "Android",
+    "Nuclear"
+  ],
+  "author": "Loutchansky Oleg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luchanso/nuclear-station/issues"
+  },
+  "homepage": "https://github.com/Luchanso/nuclear-station#readme"
+}
